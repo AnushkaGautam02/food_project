@@ -1,0 +1,20 @@
+.meal{
+    list-style: none;
+    border-bottom: 1px solid #ddd;
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.meal h3{
+    font-weight: 600;
+}
+.description{
+    font-weight: 400;
+    font-style: italic;
+
+}
+.price{
+    color: #b53b0b;
+    font-weight: 600;
+}
